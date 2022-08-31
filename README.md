@@ -1,3 +1,5 @@
 # Data_Structures_Python
 
-Linked List
+Searching_Algorithms.ipynb
+-> Linear search 
+-> Binary search

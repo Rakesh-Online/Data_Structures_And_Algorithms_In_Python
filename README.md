@@ -4,3 +4,4 @@
 - Linear search 
 - Binary search
 - Search 2D using binary search
+- Ternary search
